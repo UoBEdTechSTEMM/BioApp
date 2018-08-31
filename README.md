@@ -10,3 +10,8 @@
 An example of the parameters that can be passed.
 
 `https://uobedtechstemm.github.io/BioApp/bio-app.html?E=1&inhib=C&kic=7`
+
+To embed in canvas using an iframe use the following code.
+```
+<iframe src="https://uobedtechstemm.github.io/BioApp/bio-app.html?E=1&inhib=C&kic=7" width="800" height="900"></iframe>
+```
