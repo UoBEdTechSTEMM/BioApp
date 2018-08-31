@@ -15,9 +15,9 @@ select{
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
-    cursor: pointer; 
+    cursor: pointer;
 }
-	
+
 #table
 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -41,21 +41,21 @@ select{
 	border-top: 1px solid #99ADD6;
 }
 
-input[type="text"] { 
-    background: white; 
-    border: 0.5px solid #D6D6FF; 
-    border-radius: 3px; 
-    box-shadow: 0 0 5px 3px #D6D6FF; 
-    color: #666; 
-    outline: none; 
-    height:23px; 
-    width: 275px; 
-  } 
-  
+input[type="text"] {
+    background: white;
+    border: 0.5px solid #D6D6FF;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 3px #D6D6FF;
+    color: #666;
+    outline: none;
+    height:23px;
+    width: 275px;
+  }
+
   div {
     padding: 10px 25px;
-	
-	
+
+
 }
 
   div.a {
